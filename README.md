@@ -1,2 +1,1 @@
-# Tin-Dog
-TinDog Fun Site
+TinDog Starting Files
